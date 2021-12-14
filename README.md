@@ -1,6 +1,6 @@
 # História Digital: acervos e ferramentas digitais para pesquisa e ensino
 
-_PROPPG 04/2021 - PIBIC_ UNILAB
+_PROPPG 04/2021 - PIBIC_ **UNILAB**
 
 Repositório do projeto "História Digital: acervos e ferramentas digitais para pesquisa e ensino", coordenado pelo professor Eric Brasil desenvolvido no Instituto de Humandiades e Letras do campus dos Malês, Unilab.
 
