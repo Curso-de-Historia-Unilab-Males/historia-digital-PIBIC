@@ -30,6 +30,6 @@ para o desenvolvimento de ferramentas metodológicas e recursos digitais para fu
 
 ### Bolsista: Priscila Valverde
 
- Plano de Trabalho: História Digital: ferramentas digitais para pesquisa e ensino a partir da visão de docentes de IES federais no estado da Bahia
+ ** Plano de Trabalho: História Digital: ferramentas digitais para pesquisa e ensino a partir da visão de docentes de IES federais no estado da Bahia **
 
 
