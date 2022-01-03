@@ -21,7 +21,7 @@ Dando prosseguimento ao projeto, esse ano com vigência entre 01 de outubro de 2
 
 
 
-### Bolsista: **Priscila Valverde Silveira**
+### Bolsista: Priscila Valverde Silveira
 
 
 
