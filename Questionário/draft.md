@@ -1,9 +1,18 @@
 # Rascunho do questionário
 
+**Projeto**: História Digital: acervos e ferramentas digitais para pesquisa e ensino
+
+**Edital**: _PROPPG 04/2021 - PIBIC_
+
+**Instituição**: Instituto de Humandiades e Letras do campus dos Malês, Unilab
+
+**Coordenador**: Eric Brasil
+
+**Bolsista PIBIC**: Priscila Valverde Silveira
 
 ## Nota explicativa
 
-O presente questionário é parte do projeto História Digital: acervos e ferramentas digitais para pesquisa e ensino, a partir do qual pretendemos promover o debate sobre os impactos teórico- metodológicos para o ofício de historiadores/as e professores/as de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Para isso, desenvolvemos um conjunto de questões relacionadas a utilização de repositórios, onde buscamos identificar quais repositórios de fontes digitais on-line estão sendo utilizados para a pesquisa e refletir sobre seus usos e implicações para História e seu ensino no Brasil, mais especificamente em cursos de licenciatura em História no estado da Bahia.
+O presente questionário é parte do projeto *História Digital: acervos e ferramentas digitais para pesquisa e ensino*, a partir do qual pretendemos promover o debate sobre os impactos teórico-metodológicos para o ofício de historiadores/as e professores/as de história gerado pelo avanço irrefreável tanto dos acervos digitais de fontes primárias quanto das ferramentas digitais para pesquisa, escrita e ensino da disciplina. Para isso, desenvolvemos um conjunto de questões relacionadas a utilização de repositórios de fontes e acervos digitais ou digitalizados, onde buscamos identificar quais repositórios de fontes digitais on-line estão sendo utilizados para a pesquisa e refletir sobre seus usos e implicações para História e seu ensino no Brasil, mais especificamente em cursos de licenciatura em História no estado da Bahia.
 
 ## Termo de consentimento
 >Incluir o termo de consentimento e o link para o mesmo.
@@ -78,7 +87,7 @@ O presente questionário é parte do projeto História Digital: acervos e ferram
 >Incluir uma explicação para sessão
 
 14. O repositório retorna resultados de busca satisfatórios?
-   1.  escala de 1 a 5, onde 1 é pior e 5 é melhor
+    1.  escala de 1 a 5, onde 1 é pior e 5 é melhor
     - [ ] 1
     - [ ] 2
     - [ ] 3
