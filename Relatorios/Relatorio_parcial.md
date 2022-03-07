@@ -4,18 +4,21 @@ O projeto História Digital: acervos e ferramentas digitais para pesquisa e ensi
 
 
 ## 2.OBJETIVOS
+
 **Geral**
-- Caracterizar e avaliar a consciência de docentes de cursos de História de IES federais do estado da Bahia acerca da "seletividade digital", dos
+
+* Caracterizar e avaliar a consciência de docentes de cursos de História de IES federais do estado da Bahia acerca da "seletividade digital", dos
 vieses, limitações e lacunas dos acervos digitais e como eles e elas têm lidado e trabalhado com esse desafio apesar da carência de formação
 teórica e metodológica em boa parte dos cursos de humanidades no Brasil.
 
 **Específicos**
-1. Caracterizar a História Digital e os debates sobre heurística e hermenêutica;
-2. Refletir sobre os impactos dos acervos digitais para o ofício do historiador e do professor de história;
-3. Construir, aplicar e analisar questionários junto a docentes dos cursos de história das IES federais da Bahia acerca de suas práticas, usos e
+
+* Caracterizar a História Digital e os debates sobre heurística e hermenêutica;
+* Refletir sobre os impactos dos acervos digitais para o ofício do historiador e do professor de história;
+* Construir, aplicar e analisar questionários junto a docentes dos cursos de história das IES federais da Bahia acerca de suas práticas, usos e
 reflexões sobre acervos digitais, pesquisa e ensino.
-4. Listar os principais repositórios de fontes digitais utilizados.
-5. Construir repositório digital de acesso público com os dados e resultados da pesq
+* Listar os principais repositórios de fontes digitais utilizados.
+* Construir repositório digital de acesso público com os dados e resultados da pesq
 
 
 ## 3. ATIVIDADES EXECUTADAS E METODOLOGIA UTILIZADA 
