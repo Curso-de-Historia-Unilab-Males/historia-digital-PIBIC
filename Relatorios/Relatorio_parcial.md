@@ -4,12 +4,15 @@ O projeto História Digital: acervos e ferramentas digitais para pesquisa e ensi
 
 
 ## 2.OBJETIVOS
+
 **Geral**
+
 - Caracterizar e avaliar a consciência de docentes de cursos de História de IES federais do estado da Bahia acerca da "seletividade digital", dos
 vieses, limitações e lacunas dos acervos digitais e como eles e elas têm lidado e trabalhado com esse desafio apesar da carência de formação
 teórica e metodológica em boa parte dos cursos de humanidades no Brasil.
 
 **Específicos**
+
 1. Caracterizar a História Digital e os debates sobre heurística e hermenêutica;
 2. Refletir sobre os impactos dos acervos digitais para o ofício do historiador e do professor de história;
 3. Construir, aplicar e analisar questionários junto a docentes dos cursos de história das IES federais da Bahia acerca de suas práticas, usos e
@@ -19,27 +22,38 @@ reflexões sobre acervos digitais, pesquisa e ensino.
 
 
 ## 3. ATIVIDADES EXECUTADAS E METODOLOGIA UTILIZADA 
+
 Embora exista um cronograma de execução das atividades, o qual serve para orientar a pesquisa, as atividades se entrelaçaram no decorrer dos meses pois, algumas farão parte de todo o projeto. Assim vou preferir me ater a explicar a metodologia para cada atividade, sem seguir a sequência do cronograma.
 O levantamento e a leitura bibliográfica ocorreram em boa parte dos meses, diante da necessidade de um suporte teórico para o desenvolvimento das atividades. As leituras priorizaram discussões relacionadas às práticas de uso de repositórios digitais online como fonte de pesquisa historiográfica e sobre o campo da História Digital. Durante todos os meses ocorreram reunião de orientação. Boa parte dessa bibliografia já se encontrava disponível na biblioteca pública História Digital, hospedada no gerenciador de referências Zotero e desenvolvida na primeira fase do projeto, com acesso disponível no link: https://www.zotero.org/groups/2216280/histria_digital. Nesta fase, fizemos a manutenção da biblioteca pois, achamos mais pertinente alinhar as atividades do projeto atual com o anterior, para sintetizar as buscas, sendo desnecessário construir uma nova biblioteca já que se tratava dos mesmos objetivos.
+
  O Zotero é um software de código livre e aberto, gratuito, que busca, gerencia e armazena referencias e citações, criando uma biblioteca de referências onde seus itens podem ser organizados em coleções (ANDRETTA; RAMOS; SILVA.2011). O programa possibilita gerar notas/fichamentos, tecer conexões/links entre as referências, atribuição de etiquetas/marcadores, entre outras funções, essa catalogação fica a critério do usuário. O Zotero permite ao usuário administrar sua biblioteca em mais de um dispositivo através da sincronização do programa a conta online no servidor de Zotero, isso possibilita acessar as informações armazenadas no computador, essa sincronização possibilita a criação de grupos e biblioteca compartilhada onde as edições feitas por um membro é acompanhado pelos demais dinamizando as construções. Outra função do software é sua integralização ao editor de texto, onde o software auxilia a gerar a referências de citações no estilo selecionado pelo usuário, gera também a bibliografia a partir de todas as citações presentes no texto. 
+ 
 Passamos a discutir a bibliografia sobre a construção de questionários do tipo survey e sobre a metodologia, benefícios e limitações da utilização de aplicativos para a pesquisa. Utilizamos textos que abordaram a utilização do aplicativo google forms, o qual escolhemos para utilizar no projeto diante de ser uma gratuito, de baixa dificuldade de aprendizagem do manuseio e pela portabilidade entre sistemas e dispositivos, evitando inviabilizar o desenvolvimento da pesquisa por questões técnicas, entre outras questões.
+
 Participei como ouvinte entre os meses de outubro e novembro da disciplina Ciência Social Computacional do Programa de Pós-Graduação em Ciências Sociais da UFBA, ministrada pelos professores Eric Brasil e Leonardo Nascimento, onde fiz formação teórica sobre o campo das Humanidades Digitais, o que envolveu a análise de fontes digitais para a pesquisa nas disciplinas de História e Sociologia, além da utilização de recursos e metodologias híbridas. Fiz formação prática em programação com a linguagem Python e a utilização da mesma como recurso de coleta de dados para a pesquisa aplicada nas áreas de humanidades.
+
 Um dos objetivos do projeto é tornar o desenvolvimento da pesquisa pública, assim, escolhemos desenvolver todas as atividades em um aplicativo que permite gerenciar atividades e controlar versões de arquivo mantendo todas as ações ao longo do projeto, sem apaga-las. Para isso, usamos o GITHUB, que é aplicativo gratuito da empresa Microsoft, que possui várias funções, entre elas a possibilidade de trabalho simultâneo e remoto entre várias pessoas além, de possibilitar a recuperação de arquivos editados anteriormente pelo GIT, que é um controlador de versões de código aberto. Para isso fiz workshop com o professor Eric Brasil e com o Laboratório de Humanidades Digitais da UFBA – LABHD. Após a formação, estruturamos o repositório intitulado História Digital: Acervos e ferramentas digitais para a pesquisa e ensino no GITHUB, disponível no link https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC.
-Em seguida, passamos a levantar os dados dos contatos das universidades públicas do estado da Bahia e do respectivo corpo docente que compõem os cursos de licenciatura e bacharelado de história. A partir desse levantamento criams um banco de dados com tais contatos, disponíveis para acesso em: < https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/tree/main/Contatos > 
+
+Em seguida, passamos a levantar os dados dos contatos das universidades públicas do estado da Bahia e do respectivo corpo docente que compõem os cursos de licenciatura e bacharelado de história. A partir desse levantamento criams um banco de dados com tais contatos, disponíveis para acesso em: <https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/tree/main/Contatos>
+
 Seguimos pensando metodologicamente como construiríamos o questionário, as perguntas e sessões. Assim, desenvolvemos um modelo de questionário semiestruturado, onde selecionamos dos recursos disponíveis no google forms as questões com respostas do tipo múltipla escolha, de escala linear, de resposta curta e de parágrafo. Neste momento da pesquisa temos um questionário  com a seguinte divisão:
-•	Apresentação
-•	Termo de consentimento (em desenvolvimento)
-•	Sessão 1 – Mapeando os repositórios, com duas questões – neste bloco objetivamos identificar quais os repositórios estão sendo mais utilizados pelos docentes.
-•	Sessão 2 – O Repositório enquanto metodologia, fonte e prática historiográfica, com onze questões - neste bloco objetivamos entender de que maneira os repositórios são utilizados e como isto tem impactado no ofício do historiador. Se há uma compreensão dos mecanismos de pesquisa e se existe uma reflexão teórica por parte do docente acerca do uso destes.
-•	Sessão 3 – Os resultados,  com quatro questões - neste bloco buscamos refletir se os resultados obtidos durante o uso do repositório atende as necessidades das práticas de pesquisa dos docentes e se existe uma compreensão por parte dos docentes dos mecanismos de retorno destes resultados..
-•	Sessão 4 – Formação para pesquisa em repositórios digitais, com três questões – neste bloco de questões busca refletir se existe uma formação educativa para utilização dos repositórios enquanto prática de pesquisa..
-•	Sessão 5 – Comentários, com duas questões- buscamos saber se existe interesse por parte do docente para participar de uma entrevista mais aprofundada por vídeo-chamada e identificar possíveis questões não abordadas pelo questionário.
+
+-	Apresentação
+-	Termo de consentimento (em desenvolvimento)
+-	Seção 1 – Mapeando os repositórios, com duas questões – neste bloco objetivamos identificar quais os repositórios estão sendo mais utilizados pelos docentes.
+-	Seção 2 – O Repositório enquanto metodologia, fonte e prática historiográfica, com onze questões - neste bloco objetivamos entender de que maneira os repositórios são utilizados e como isto tem impactado no ofício do historiador. Se há uma compreensão dos mecanismos de pesquisa e se existe uma reflexão teórica por parte do docente acerca do uso destes.
+-	Seção 3 – Os resultados,  com quatro questões - neste bloco buscamos refletir se os resultados obtidos durante o uso do repositório atende as necessidades das práticas de pesquisa dos docentes e se existe uma compreensão por parte dos docentes dos mecanismos de retorno destes resultados..
+-	Seção 4 – Formação para pesquisa em repositórios digitais, com três questões – neste bloco de questões busca refletir se existe uma formação educativa para utilização dos repositórios enquanto prática de pesquisa..
+-	Seção 5 – Comentários, com duas questões- buscamos saber se existe interesse por parte do docente para participar de uma entrevista mais aprofundada por vídeo-chamada e identificar possíveis questões não abordadas pelo questionário.
 Esta é a etapa na qual nos encontramos.
 
 ## 4. RESULTADOS ALCANÇADOS E DISCUSSÃO (Anexar ao relatório preenchido, tabelas,gráficos, figuras, artigos e outros produtos gerados) 
+
 Referente aos resultados teóricos alcançados pela leitura e discussão da bibliografia, passamos a compreender a História Digital como um campo que envolve metodologia híbrida na qual é necessário estar atento as orientações de práticas próprias da historiografia, como a heurística, bem como a utilização de orientações para apuração de fontes em meios digitais, da ciência computacional. Concluímos que o processo de digitalização de uma fonte histórica é um processo complexo, embora as informações sejam as mesmas, necessitando de uma metodologia adequada (BRASIL e NASCIMENTO, 2020). Alcançamos a compreensão da necessidade de abordagens metodológicas diferentes entre uma fonte criada em meios digitais e fontes de outros formatos que foram digitalizados e, isso irá envolver a utilização de recursos como Optical Character Recognition (OCR). Também buscamos refletir sobre o rigor metodológico para a prática de pesquisa em meios digitais e isto envolve a investigação de informações complementares (metadados) (BRASIL e NASCIMENTO, 2020). Concluímos também sobre a importância de ferramentas de baixo custo e que possibilitem acessibilidade para garantir a produção de conhecimentos no campo da História Digital. 
-Construímos um banco de dados com o contato do colegiado de História de nove universidades sendo: Universidade da Integração Internacional da Lusofonia Afro-Brasileira – UNILAB, Universidade Federal da Bahia –UFBA, Universidade do Estado da Bahia  campus: SALVADOR, CAETITÉ, ALAGOINHAS, CONCEIÇÃO DO COITÉ, JACOBINA,  TEIXIERA DE FREITAS, ITABERABA, EUNÁPOLIS, Universidade Estadual de Feira de Santana – UEFS, Universidade Estadual de Santa Cruz – UESC, Universidade Estadual do Sudoeste da Bahia – UESB, Universidade Federal do Oeste da Bahia – UFOB, Universidade Federal do Sul da Bahia – UFSB, Universidade Federal do Recôncavo Baiano – UFRB e mais de 125 contatos dos docentes divididos entre estas universidades. Link de acesso disponível em: https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/tree/main/Contatos .
-Temos ainda a primeira versão do questionário com um total de 22 questões, divididas entre cinco blocos de questões (sessões) e notas explicativas dos blocos. Disponível para consulta em: https://docs.google.com/forms/d/e/1FAIpQLSfLtRIg5bkGQFfgut1svvtx7QTmj2UOIgn83SiD1jclre_7rQ/viewform?usp=pp_url .
+
+Construímos um banco de dados com o contato do colegiado de História de nove universidades sendo: Universidade da Integração Internacional da Lusofonia Afro-Brasileira – UNILAB, Universidade Federal da Bahia –UFBA, Universidade do Estado da Bahia  campus: SALVADOR, CAETITÉ, ALAGOINHAS, CONCEIÇÃO DO COITÉ, JACOBINA,  TEIXIERA DE FREITAS, ITABERABA, EUNÁPOLIS, Universidade Estadual de Feira de Santana – UEFS, Universidade Estadual de Santa Cruz – UESC, Universidade Estadual do Sudoeste da Bahia – UESB, Universidade Federal do Oeste da Bahia – UFOB, Universidade Federal do Sul da Bahia – UFSB, Universidade Federal do Recôncavo Baiano – UFRB e mais de 125 contatos dos docentes divididos entre estas universidades. Link de acesso disponível em: https://github.com/Curso-de-Historia-Unilab-Males/historia-digital-PIBIC/tree/main/Contatos.
+
+Temos ainda a primeira versão do questionário com um total de 22 questões, divididas entre cinco blocos de questões (sessões) e notas explicativas dos blocos. Disponível para consulta em: https://docs.google.com/forms/d/e/1FAIpQLSfLtRIg5bkGQFfgut1svvtx7QTmj2UOIgn83SiD1jclre_7rQ/viewform?usp=pp_url.
 
 ## 5. REFERÊNCIAS BIBLIOGRÁFICAS UTILIZADAS (seguir normas ABNT)
 
@@ -146,9 +160,14 @@ WYNN, J. R. Digital Sociology: Emergent Technologies in the Field and the Classr
 ZAAGSMA, G. On Digital History. BMGN - Low Countries Historical Review, v. 128, n. 4, p. 329, 16 dez. 2013
 
 ## **6. ATIVIDADES PLANEJADAS, MAS NÃO EXECUTADAS (justificar)**
+
 Não tivemos atividades planejadas que não foram executadas. Houve uma modificação na sequência do planejamento devido à dificuldade em contactar o colegiado das universidades por causa da divergência nos calendários acadêmicos, assim, antecipamos algumas oficinas para aplicar o questionário em uma data que estivesse dentro do calendário acadêmico de ambas. Referente a construção de uma biblioteca no gerenciador bibliográfico Zotero, como o projeto atual é uma continuidade do projeto do edital Proppg 01/2020 (PIBIC/FAPESB), achamos mais coeso fazer a manutenção da biblioteca História Digital ao invés de construir uma nova.
 
 
 ## **7. DIFICULDADES ENCONTRADAS NA EXECUÇÃO DA PESQUISA**
 
 Inicialmente encontramos dificuldade em ter contato com as universidades devido à divergência do calendário acadêmico. Encontramos também dificuldade no acesso às páginas do site referente aos colegiados pois alguns deles não disponibilizam nas páginas os e-mails do corpo docente, em alguns tem o lattes, e em outros não há nenhuma informação. Esta dificuldade reforça a necessidade de maiores adequações das universidades para utilização dos meios digitais.
+
+## **8. AUTOAVALIAÇÃO DO BOLSISTA SOBRE O SEU DESEMPENHO NAS ATIVIDADES PREVISTAS NO PLANO DE TRABALHO**
+
+[escrever direto no formulário]
