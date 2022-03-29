@@ -145,8 +145,4 @@ O presente questionário é parte do projeto *História Digital: acervos e ferra
 
 ## Seção 5 - Comentários
 >Incluir uma explicação para sessão
-
-22. Você teria interesse e disponibilidade para realizar uma entrevista através de video-chamada?
-    - [ ] Sim
-    - [ ] Não
-23. Caso queira, deixe aqui algum comentário sobre a utilização que o formulário não tenha abarcado:
+22. Caso queira, deixe aqui algum comentário sobre a utilização que o formulário não tenha abarcado:
