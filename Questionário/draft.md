@@ -169,24 +169,24 @@ Este bloco de questões visa entender de que maneira os repositórios são utili
     - [ ] Não 
 *Ferramentas*
 
-20. 1. Se respondeu afirmativamente à questão anterior indique a(s) forma(s) como gostaria de usar as ferramentas digitais
-    - [ ] Instrumentos de obtenção e gestão de dados
-    - [ ] Instrumentos de análise
-    - [ ] Acesso a base de dados
-    - [ ] Programação
-    - [ ] Ferramentas ligadas à construção de acervos e exposições
-    - [ ] Meio de comunicação e disseminação de pesquisas
-    - [ ] Ensino de história
-    - [ ] Outros 
-20. 2. Qual dos seguintes métodos você vê com mais interesse para aplicar na sua área de investigação?
-    - [ ] Sistema de informação geográfica
-    - [ ] Análise de redes
-    - [ ] Análise de séries temporais
-    - [ ] Análise qualitativa
-    - [ ] Análise textual
-    - [ ] Edição digital
-    - [ ] Gestão de base de dados
-    - [ ] Outros 
+20.1 Se respondeu afirmativamente à questão anterior indique a(s) forma(s) como gostaria de usar as ferramentas digitais
+   - [ ] Instrumentos de obtenção e gestão de dados
+   - [ ] Instrumentos de análise
+   - [ ] Acesso a base de dados
+   - [ ] Programação
+   - [ ] Ferramentas ligadas à construção de acervos e exposições
+   - [ ] Meio de comunicação e disseminação de pesquisas
+   - [ ] Ensino de história
+   - [ ] Outros 
+20.2 Qual dos seguintes métodos você vê com mais interesse para aplicar na sua área de investigação?
+   - [ ] Sistema de informação geográfica
+   - [ ] Análise de redes
+   - [ ] Análise de séries temporais
+   - [ ] Análise qualitativa
+   - [ ] Análise textual
+   - [ ] Edição digital
+   - [ ] Gestão de base de dados
+   - [ ] Outros 
 
 ## Seção 5 - Comentários
 >
