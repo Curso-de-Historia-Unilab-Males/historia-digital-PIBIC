@@ -189,5 +189,5 @@ Este bloco de questões visa entender de que maneira os repositórios são utili
     - [ ] Outros 
 
 ## Seção 5 - Comentários
->Incluir uma explicação para sessão
-22. Caso queira, deixe aqui algum comentário sobre a utilização que o formulário não tenha abarcado:
+>
+21. Caso queira, deixe aqui algum comentário sobre a utilização que o formulário não tenha abarcado:
