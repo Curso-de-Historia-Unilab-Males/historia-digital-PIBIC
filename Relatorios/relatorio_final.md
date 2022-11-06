@@ -85,8 +85,8 @@ Para isso foi necessária uma nova busca de dados, na qual coletamos os contatos
   - Uneb-itaberaba: 9 professores
   - Uneb-jacobina : 9 professores - 3 emails não encontrados
   - Unilab-malês : 10 professores - uma devolutiva confirmando a resposta do questionário.
-  - Total de 105 email enviados (já excluindo os endereços que foram acusados como não encontrados )
-  - Tivemos 22 respostas ao questionário. Equivalente a 20,95% em relação aos 105 emails enviados.
+- Total de 105 email enviados (já excluindo os endereços que foram acusados como não encontrados )
+- Tivemos 22 respostas ao questionário. Equivalente a 20,95% em relação aos 105 emails enviados.
 
 
 ## RESULTADOS ALCANÇADOS E DISCUSSÃO 
